@@ -1,0 +1,60 @@
+# Kubernetes files
+
+# Secrets
+*.secret
+secret.yaml
+secrets.yaml
+
+# Environment files
+.env
+.env.*
+
+# Local Kubernetes configs
+.kube/
+kubeconfig
+config
+
+# Helm
+charts/*/charts/
+*.tgz
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+
+# IDE files
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Terraform (future use)
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Certificates and keys
+*.pem
+*.key
+*.crt
+
+# Local testing files
+minikube/
+kind/
