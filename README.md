@@ -259,4 +259,4 @@ After completing Kubernetes, I will continue with:
 # ⭐ About This Repository
 
 This repository is maintained as part of my journey to become a DevOps & Cloud Engineer. Every YAML manifest, deployment, configuration, and project is created while learning and practicing Kubernetes through hands-on implementation.
-1 2 3 4 5 6 7
+1 2 3 4 5 6 7 8
